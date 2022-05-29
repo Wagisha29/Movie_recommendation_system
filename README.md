@@ -21,3 +21,4 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 7. Hurray! That's it.
 
 # web application
+<img width="1435" alt="Screenshot 2022-05-29 at 4 39 46 PM" src="https://user-images.githubusercontent.com/77954391/170864984-7d6582c0-bca6-4b72-87a1-8e5ac519200b.png">
